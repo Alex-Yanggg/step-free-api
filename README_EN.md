@@ -266,7 +266,7 @@ Request data:
     "messages": [
         {
             "role": "user",
-            "content": "你是谁？"
+            "content": "who RU？"
         }
     ],
     // If using SSE stream, please set it to true, the default is false
