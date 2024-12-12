@@ -60,6 +60,11 @@ Lingxin Intelligence (Emohaa) API to API [emohaa-free-api](https://github.com/LL
 
 **For personal use only, it is forbidden to provide services or commercial use externally to avoid causing service pressure on the official, otherwise, bear the risk yourself!**
 
+## Online experience
+This link is only for temporary testing of functions and cannot be used for a long time. For long-term use, please deploy by yourself.
+
+https://udify.app/chat/RGqDVPHspgQgGSgf
+
 ## Effect Examples
 
 ### Identity Verification
