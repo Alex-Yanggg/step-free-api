@@ -43,7 +43,7 @@ Lingxin Intelligence (Emohaa) API to API [emohaa-free-api](https://github.com/LL
     * [Document Interpretation](#document-interpretation)
     * [Image analysis](#image-analysis)
     * [refresh_token survival detection](#refresh_token-survival-detection)
-* [Precautions](#Precautions)
+* [Notification](#Notification)
     * [Nginx anti-generation optimization](#Nginx-anti-generation-optimization)
     * [Token statistics](#Token-statistics)
 * [Star History](#star-history)
